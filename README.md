@@ -43,6 +43,10 @@ Enter the user and the wordlist, If you don't have wordlist you can use **wordli
 
 After that, it will automatically try the quick login with the words of the wordlist. To run the script make sure you have installed everything, use this combination. 
 
+```bash
+python3 spectrum.py
+```
+
 <hr>
 
 # NOTE 
