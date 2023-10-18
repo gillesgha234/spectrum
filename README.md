@@ -1,6 +1,7 @@
 # SPECTRUM
 
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-red.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Termux-red.svg)]()
 [![Contributors](https://img.shields.io/badge/Contributors-None-red.svg)]()
 [![Version](https://img.shields.io/badge/version-1.0-red.svg?maxAge=259200)]()
 
@@ -12,7 +13,7 @@
 
 <hr>
 
-*It is a tool based on Python, that makes brute force a TikTok user to obtain your password and access your account .*
+*It is a tool based on Python, that makes brute force a TikTok user to obtain your password and access your account. It is compatible with Termux and Linux distributions such as Kali Linux.*
 
-## 
+## USAGE
 
