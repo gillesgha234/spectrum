@@ -1,0 +1,5 @@
+password
+Password
+passw0rd
+PASSWORD
+PASSW0RD
