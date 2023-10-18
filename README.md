@@ -27,10 +27,11 @@ Installing this script is completely easy. Find the distribution you use below a
 
 ## LINUX DISTRIBUTIONS AND TERMUX
 
-bash’’’
+```bash
 git clone https://github.com/sk-k1ng/spectrum
 cd spectrum
-pip install -r requirements.txt‘‘‘
+pip install -r requirements.txt
+```
 
 <hr>
 
