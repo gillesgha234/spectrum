@@ -105,6 +105,9 @@ def brute_force(user, password, wordlist):
             print()
             print(green + f" success! password is {word}" + reset)
             break
+        else
+            print()
+            print(red + f"failed! the wordlist {wordlist) didn't find the word" + reset)
 
                                                                 
 brute_force(user, password, wordlist)
